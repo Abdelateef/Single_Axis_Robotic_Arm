@@ -16,7 +16,7 @@ Robotic arms are crucial in various industrial and research applications, perfor
 
 The repository includes:
 
-- LaTeX document (`project_document.tex`): This document outlines the project's objectives, system modeling, controller design, results, and references.
+- LaTeX document (`Control_systems.pdf`): This document outlines the project's objectives, system modeling, controller design, results, and references.
 
 - MATLAB Code: Simulation scripts and code used for controller design and analysis.
 
