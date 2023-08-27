@@ -23,6 +23,6 @@ The repository includes:
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Open the LaTeX document (`project_document.tex`) to review the project details, mathematical modeling, controller design, and results.
+2. Open the LaTeX document (`Control_systems.pdf`) to review the project details, mathematical modeling, controller design, and results.
 3. Navigate to the `MATLAB` directory to access the MATLAB scripts and simulations used in the project.
 
